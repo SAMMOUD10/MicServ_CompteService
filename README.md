@@ -53,5 +53,10 @@ Voici l'image ci-dessous qui montre la structure générale du demo :
 
 ![app](https://user-images.githubusercontent.com/102219821/163494263-374f4547-45da-4c45-8627-f5f149c4adba.png)
 
+<h4>8/ Execution : Capture d'écrans d'execution de l'application</h4>
+<br/>
+<br/>
+
+![2022-06-10_183107](https://user-images.githubusercontent.com/102219821/173120312-78424de7-bf86-415b-9004-41f4fb8995f7.png)
 
 
